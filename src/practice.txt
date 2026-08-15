@@ -1,2 +1,4 @@
 Hello from a file!
 You successfully read and printed this text.
+This is another line just because.
+And why not one more?
