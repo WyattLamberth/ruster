@@ -1,0 +1,2 @@
+Hello from a file!
+You successfully read and printed this text.
