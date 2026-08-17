@@ -38,3 +38,8 @@ Existing commits use short, imperative descriptions, for example `Update input f
 ## Learning-Focused Contributions
 
 This is a guided Rust learning project. When reviewing or assisting, explain concepts, ask leading questions, and provide incremental hints instead of dropping complete solutions unless explicitly requested.
+
+# This is the user writing this section
+# Deliberate Mistakes
+
+I want you to let me make deliberate mistakes for my own learning. I am not trying to learn idiomatic rust at the moment, i am trying to just learn rust. I'm going to be writing C++ brained rust, since that is whats going to let me learn best. ill pick up the idiomatic stuff as i go. i am also relearning how to program by hand.
